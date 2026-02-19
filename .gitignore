@@ -1,0 +1,12 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Dataset (ne pas versionner les données sensibles)
+heart.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
